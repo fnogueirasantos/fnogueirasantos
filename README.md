@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Felipe Nogueira</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Spark e Hadoop**
+- 🌱 Atualmente estou aprendendo **Machine Learning**
 
 - 💬 Me pergunte sobre **Python, R, SQL, Power B.I, Google Data Studio**
 
