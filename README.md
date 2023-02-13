@@ -2,7 +2,7 @@
 <h3 align="left">Apaixonado por ciência e análise de dados.</h3>
 <h5 align="left">Atuo na extração, limpeza e carga de dados de diversas fontes, modelagem, análise exploratória e estatística, aplico engenharia de atributos, pré-processamento, elaboração de modelos de machine learning e criação de reports analíticos e dashboards. Tenho boa experiência na área de dados e na mensuração dos processos de negócios. Rotineiramente utilizo as linguagens R, Python, SQL e ferramentas de data visualization para aplicação de storytelling.</h5>
 
-- 🌱 Atualmente estou aprendendo **Machine Learning**
+- 🌱 Atualmente estou desenvolvendo meus conhecimentos em **machine learning e estatística**
 
 - 💬 Vamos falar sobre **Python, R, SQL**
 
