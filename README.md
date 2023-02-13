@@ -2,13 +2,21 @@
 <h3 align="left">Apaixonado por ciência e análise de dados.</h3>
 <h5 align="left">Atuo na extração, limpeza e carga de dados de diversas fontes, modelagem, análise exploratória e estatística, aplico engenharia de atributos, pré-processamento, elaboração de modelos de machine learning e criação de reports analíticos e dashboards. Tenho boa experiência na área de dados e na mensuração dos processos de negócios. Rotineiramente utilizo as linguagens R, Python, SQL e ferramentas de data visualization para aplicação de storytelling.</h5>
 
-- 🌱 Atualmente estou desenvolvendo meus conhecimentos em **machine learning e estatística**
+- :mortar_board: Sou pós-graduado em finanças controladoria e auditoria pela FGV.**
 
-- 💬 Vamos falar sobre **Python, R, SQL**
+- :mortar_board: Conclui as formações de Cientista e Analista de Dados pela: [https://www.datascienceacademy.com.br/](https://www.datascienceacademy.com.br/)
+
+- 🌱 Atualmente estou desenvolvendo meus conhecimentos em **machine learning e estatística.**
+
+- 💬 Vamos falar sobre **Python, R, SQL** e suas aplicabilidades no mundo coporativo.
 
 - 📫 Você me acha através do e-mail **fenogueirasantos@gmail.com**
 
+- :calling: **(31) 99970-8214**
+
 - 📄 Para saber sobre as minhas experiências [https://www.linkedin.com/in/felipenogueira92/](https://www.linkedin.com/in/felipenogueira92/)
+
+- :coffee: Vamos tomar um café?
 
 
 <h3 align="left">Languages and Tools:</h3>
