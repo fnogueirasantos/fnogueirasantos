@@ -4,7 +4,7 @@
 
 - :mortar_board: Sou pós-graduado em finanças controladoria e auditoria pela FGV.
 
-- :mortar_board: Conclui as formações de Cientista e Analista de Dados pela: [https://www.datascienceacademy.com.br/](https://www.datascienceacademy.com.br/)
+- :mortar_board: Na área de dados, finalizei as formações de Cientista e Analista de Dados pela: [https://www.datascienceacademy.com.br/](https://www.datascienceacademy.com.br/)
 
 - 🌱 Atualmente estou desenvolvendo meus conhecimentos em **machine learning e estatística.**
 
