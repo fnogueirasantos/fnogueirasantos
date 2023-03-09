@@ -8,7 +8,7 @@
 
 - 🌱 Atualmente estou desenvolvendo meus conhecimentos em **machine learning e estatística.**
 
-- 💬 Vamos falar sobre **Python, R, SQL** e suas aplicabilidades no mundo coporativo.
+- 💬 Vamos falar sobre **Python, R, SQL** e suas aplicabilidades no mundo corporativo.
 
 - 📫 Você me acha através do e-mail **fenogueirasantos@gmail.com**
 
